@@ -1,0 +1,11 @@
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\bin\Debug\net7.0\ApiProduct.Core.deps.json
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\bin\Debug\net7.0\ApiProduct.Core.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\bin\Debug\net7.0\ApiProduct.Core.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.AssemblyInfoInputs.cache
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.AssemblyInfo.cs
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.csproj.CoreCompileInputs.cache
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\refint\ApiProduct.Core.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ApiProduct.Core.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Core\obj\Debug\net7.0\ref\ApiProduct.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Service.deps.json
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Service.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Service.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Core.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Data.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Data.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\bin\Debug\net7.0\ApiProduct.Core.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.csproj.AssemblyReference.cache
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.AssemblyInfoInputs.cache
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.AssemblyInfo.cs
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.csproj.CoreCompileInputs.cache
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProdu.CE70D3B2.Up2Date
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\refint\ApiProduct.Service.dll
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ApiProduct.Service.pdb
+C:\Users\semral.orucov\source\repos\ApiProduct\ApiProduct.Service\obj\Debug\net7.0\ref\ApiProduct.Service.dll
